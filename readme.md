@@ -20,7 +20,7 @@ $ pip install -r requirements.txt
 - Download Mistral 7B in LM studio
 - Start the Server 
 
-![Screenshot](Screenshots/lm studio.png)
+![Screenshot](Screenshots/lm_studio.png)
 
 ## Run with Streamlit
 ```bash
