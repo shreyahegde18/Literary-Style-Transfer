@@ -1,4 +1,4 @@
-# News Research Tool
+# Literary Style Transfer
 
 ![Screenshot](Screenshots/interface.png)
  ## Installation
